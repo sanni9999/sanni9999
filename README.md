@@ -1,6 +1,9 @@
 # 💫 About Me:
-## 👋 Hi there, I'm Sannidhya Madan  <br><br>🎓 B.Tech CSE student at Chandigarh University  <br>💻 Passionate about Cybersecurity, Automation & AI  <br>🚀 Building projects around bots, content automation, and real-world problem solving  <br>🏋️ Gym enthusiast | 📈 Entrepreneur mindset | 🌍 Love travelling and exploring new tech  <br><br>---<br><br>🔭 I’m currently working on  <br>- AI-powered automation projects  <br>- YouTube content automation bots  <br>- Cybersecurity & development skills  <br><br>👯 I’m looking to collaborate on  <br>- Open-source AI tools  <br>- Automation projects  <br>- Creative tech startups  <br><br>🤝 I’m looking for help with  <br>- Advanced backend development  <br>- Scaling automation systems  <br>- Open-source contributions  <br><br>🌱 I’m currently learning  <br>- Cybersecurity  <br>- Python & AI integrations  <br>- Full-stack development  <br><br>💬 Ask me about  <br>- AI tools & automation  <br>- Gym & fitness  <br>- Tech/business ideas  <br>- Content growth strategies  <br><br>⚡ Fun fact  <br>I love combining AI + automation to build things that can work while I sleep 😄  <br><br> 🛠️ Tech Stack<br>- Python  <br>- C / C++  <br>- HTML, CSS, JavaScript  <br>- Git & GitHub  <br>- AI APIs & Automation Tools  <br><br>⭐ “Consistency beats motivation.”
-
+## 👋 Hi there, I'm Sannidhya Madan 🎓 B.Tech CSE student at Chandigarh University  
+💻 Passionate about Cybersecurity, AI & Automation  
+🚀 Building bots, automation tools & real-world tech projects  
+🏋️ Gym enthusiast | 🌍 Traveller | 📈 Entrepreneur mindset  
+⚡ Turning ideas into automated systems that work 24/7
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sannidhya_madan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sannidhya Madan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sannidhyamadan9999@gmail.com) 
